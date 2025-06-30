@@ -34,7 +34,7 @@
 
 ## 📂 Project Structure
 
-whisperApp/
+Secrets_project/
 ├── node_modules/
 ├── public/
 │   └── css/
@@ -69,7 +69,7 @@ whisperApp/
 
 3. **Create a .env file in the root directory and add the following:**
     ```bash
-    PORT=3000
+    PORT=1627
     MONGODB_URI=your_mongodb_connection_string
     SECRET=your_encryption_secret
     JWT_SECRET=your_jwt_secret
